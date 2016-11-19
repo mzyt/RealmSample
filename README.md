@@ -59,7 +59,7 @@ open RealmSample.xcworkspace
  - Realm.fremework
 
 * viewController.swiftを修正
-** buildすることでエラーは取れる
+ - buildすることでエラーは取れる
 
 ```swift
 //
